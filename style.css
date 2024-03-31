@@ -202,7 +202,7 @@ main {
 }
 
 
-@media(min-widht: 920px) {
+
     body {
         display: flex;
         flex-direction: column;
@@ -246,4 +246,3 @@ main {
         font-size: 3rem;
     }
 
-}
